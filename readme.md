@@ -1,3 +1,11 @@
+# Verifica Automatica di Sistemi - Progetto 2017
+Progetto di Verifica Automatica di Sistemi, A.A. 2017-2018
+
+## Authors
+ - Matteo Castagnaro - VR407832
+ - Francesco Marretta - VR412875
+
+## Tema
 Il progetto consiste nella realizzazione di un client Flickr che deve permettere di effettuare le seguenti operazioni:
 
 - ricerca delle immagini per chiave (stringa)
