@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matteocastagnaro/progetto-verifica-automatica/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+</p>
+
 # Verifica Automatica di Sistemi - Progetto 2017
 Progetto di Verifica Automatica di Sistemi, A.A. 2017-2018
 
